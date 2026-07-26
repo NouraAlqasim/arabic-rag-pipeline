@@ -6,6 +6,8 @@ entirely on a locally hosted model — no external API calls.
 Given a question in Arabic, the system retrieves the most relevant document from a
 knowledge base and generates an answer constrained strictly to that text.
 
+![Example](screenshot.png)
+
 ## How it works
 
 1. **Knowledge base** — 7 Arabic children's stories held as plain text.
