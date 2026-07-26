@@ -1,3 +1,5 @@
-openai
+ollama
 sentence-transformers
+scikit-learn
 numpy
+httpx
